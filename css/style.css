@@ -1,0 +1,51 @@
+html {
+    font-size: 22px;
+}
+
+body {
+    
+   font-family: Arial, Helvetica, sans-serif;
+
+    background-image: url(/images/h7o7qquhp2pvwnschtbe.jpg);
+    background-size: 100vw 100vh;
+    background-attachment: fixed;
+}
+p{
+    color:ivory;
+    background-color: rgba(0, 0, 0, 0.484);
+
+}
+h1, h2, h3, h4{
+color: ivory;
+}
+ul{
+    color:ivory;
+}
+footer {
+    color: ivory;
+}
+
+h1{
+    text-align: center;
+
+}
+table, tr, th, td, caption{
+    border: 1px solid #eee;
+    font-family: Arial, Helvetica, sans-serif;
+    color: ivory;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+label{
+    color: rgb(194, 52, 52);
+
+}
+
+span-class{
+    color: rgb(194, 52, 52);
+}
+
+.card{
+    background-color: #7c7a77;
+}
